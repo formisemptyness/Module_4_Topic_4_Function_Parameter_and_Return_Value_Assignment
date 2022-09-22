@@ -1,0 +1,2 @@
+# Module_4_Topic_4_Function_Parameter_and_Return_Value_Assignment
+Open your python shell/command line and write a function multiply_string() that takes a string message and a number n and returns the string with message printed n times. Make calls to your function with your favorite class title and a number between 2 and 7. For instance, "Python!" and 4 as paramters would return 'Python!Python!Python!Python!' to the main method call, where your program would print the result:
